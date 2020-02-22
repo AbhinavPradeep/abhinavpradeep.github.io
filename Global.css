@@ -46,11 +46,17 @@ body {
     background: #ddd;
 }
 
+audio {
+    margin-left: 80px;
+    margin-top: 3;
+}
+
 .main {
     padding-top: 80px;
     font-family: "Antic";
     font-size: 25px;
     padding-left: 80px;
+    background-color: white;
 }
 
 * {
