@@ -1,5 +1,5 @@
 var i = 0;
-var txt = 'Welcome to SCONUG.org';
+var txt = 'Most Of This Page Is Garbage! Check out the Candidate page';
 var speed = 100;
 
 function typeWriter() {
